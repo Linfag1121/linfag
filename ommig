@@ -1,0 +1,57 @@
+<html>
+<head>
+    <link href="index.css">
+</head>
+<link rel="stylesheet" href="index.css">
+
+
+<body>
+
+<p>Den har sidan <em>handlar</em> om <strong>Hugo</strong></p>
+<img src="sexig.jpg" width="200" alt="Bild på Hugo"> 
+<p> Skolan Hugo går på är <a href="https://www.grillska.se/">Grillsak</a>  </p>
+   <link rel="website icon" type="png" href="share_default.png"
+   p>Det jag gör på fritiden är</p>
+   <ul>
+       <li>Spela</li>
+       <li>Åka EPA</li>
+       <li>Sova</li>
+   </ul>
+<TItle>Om Hugo</TItle>
+<h1>Om mig</h1>
+<p>Jag är 15år gammal fyller i 21november Jag bor i hällberga med hela min famlij. i familjen är vi totalt 5</p>
+<p>jag går i klassen EEDAT22 som handlar om el och energi data inriktning</p>
+<p>Ämen jag är bra i</p>
+<ul>
+    <li>Englsak</li>
+    <li>Webbutveckling</li>
+    <li>Datorteknik</li>
+
+<h1> Favoritmat</h1>
+
+</ul>
+<ul>
+
+<li>Hambrugare</li>
+<li> tacos</li>
+<li> pizza</li>
+<li>Kykling</li>
+
+
+
+</ul>
+
+
+
+<div>  <li><a href="uppväxt.html">uppväxt</a></li>
+   
+</div>
+<div>
+   <li><a href="indenx.html">startsida</a></li>
+
+</body>
+
+
+
+
+</html>
